@@ -1,3 +1,1 @@
-# This is an email sender service, with python
-
-## TODO
+# This is a simple smtp server with python

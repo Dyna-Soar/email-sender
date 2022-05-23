@@ -11,7 +11,6 @@ load_dotenv()
 
 MY_ADDRESS = os.getenv("MY_ADDRESS")
 PASSWORD = os.getenv("PASSWORD")
-print(MY_ADDRESS)
 
 
 RECEIVER = os.getenv("RECEIVER")
